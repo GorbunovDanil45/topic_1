@@ -1,4 +1,4 @@
-string_literal = ("string")
+string_literal = 'string'
 integer_literal = int(123)
 float_literal = float(1.23)
 boolean_literal = True
